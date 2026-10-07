@@ -1,0 +1,67 @@
+{
+    "isps":  [
+                 {
+                     "name":  "عمومی (تست‌نشده)",
+                     "note":  "لیست عمومی — برای ISP خاص تست نشده. اگر مطمئن می‌خوای، اسکن کن.",
+                     "slug":  "general"
+                 },
+                 {
+                     "slug":  "mokhaberat",
+                     "name":  "مخابرات (TCI)"
+                 },
+                 {
+                     "slug":  "irancell",
+                     "name":  "ایرانسل"
+                 },
+                 {
+                     "slug":  "rightel",
+                     "name":  "رایتل"
+                 },
+                 {
+                     "slug":  "asiatel",
+                     "name":  "آسیاتک"
+                 },
+                 {
+                     "slug":  "shatel",
+                     "name":  "شاتل"
+                 },
+                 {
+                     "slug":  "parsonline",
+                     "name":  "پارس آنلاین"
+                 },
+                 {
+                     "slug":  "hiweb",
+                     "name":  "های‌وب"
+                 },
+                 {
+                     "slug":  "mobinnet",
+                     "name":  "مبین‌نت"
+                 },
+                 {
+                     "slug":  "rastak",
+                     "name":  "راستک"
+                 },
+                 {
+                     "slug":  "samanet",
+                     "name":  "سامانت"
+                 },
+                 {
+                     "slug":  "rayanet",
+                     "name":  "رایانت"
+                 },
+                 {
+                     "slug":  "novin",
+                     "name":  "نوین"
+                 },
+                 {
+                     "slug":  "parsfiber",
+                     "name":  "پارس فایبر"
+                 },
+                 {
+                     "slug":  "other",
+                     "name":  "سایر"
+                 }
+             ],
+    "version":  1,
+    "updated":  "2026-10-07"
+}
